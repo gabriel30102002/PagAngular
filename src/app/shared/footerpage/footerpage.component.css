@@ -1,0 +1,10 @@
+.footerpage {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
